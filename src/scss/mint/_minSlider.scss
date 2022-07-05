@@ -1,0 +1,10 @@
+@import '../media';
+
+.minSliderSection {
+    margin-top: 55px;
+    margin-bottom: 70px;
+
+    @include Mobile {
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1185" height="64" viewBox="0 0 1185 64">
+  <g id="faqLine" transform="translate(-1469 -1981)">
+    <path id="Union-1" d="M16,5a5,5,0,0,0-5-5H5A5,5,0,0,0,0,5V59a5,5,0,0,0,5,5h6a5,5,0,0,0,5-5V57A16,16,0,0,0,32,41V40h5.277C39.458,43.635,43,46,47,46c6.627,0,12-6.492,12-14.5S53.627,17,47,17c-4,0-7.542,2.365-9.723,6H31.719A16.005,16.005,0,0,0,16,10Z" transform="translate(2595 1981)" fill="#453218" fill-rule="evenodd"/>
+    <path id="Union" d="M43,5a5,5,0,0,1,5-5h6a5,5,0,0,1,5,5V59a5,5,0,0,1-5,5H48a5,5,0,0,1-5-5V57A16,16,0,0,1,27,41V40H21.723C19.542,43.635,16,46,12,46,5.373,46,0,39.508,0,31.5S5.373,17,12,17c4,0,7.542,2.365,9.723,6h5.558A16.005,16.005,0,0,1,43,10Z" transform="translate(1469 1981)" fill="#3c2a12" fill-rule="evenodd"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="1082" height="39" transform="translate(1521 1994)" fill="#402d14"/>
+  </g>
+</svg>

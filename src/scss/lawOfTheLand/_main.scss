@@ -1,0 +1,173 @@
+@import '../media';
+
+.LawLandSection {
+    padding: 90px 105px 70px;
+
+    @include Small-Tablet {
+        padding: 90px 32px 70px;
+        text-align: center;
+    }
+
+    @include Mobile {
+        padding: 90px 0 30px;
+    }
+
+    & img {
+        &.mainImg {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            object-position: center center;
+
+            @include Small-Tablet {
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    & .titleHeading {
+        font-family: 'Gotham Condensed Book', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 42px;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        color: #FFFFFF;
+
+        @include Big-Tablet {
+            font-size: 30px;
+            line-height: 32px;
+        }
+
+        @include Mobile {
+            font-size: 20px;
+            line-height: 21px;
+        }
+    }
+
+    & h2 {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 53px;
+        line-height: 55px;
+        letter-spacing: 0.05em;
+        color: #FFFFFF;
+        margin-top: 20px;
+
+        @include Big-Tablet {
+            font-size: 43px;
+            line-height: 45px;
+        }
+
+        @include Small-Tablet {
+            margin-bottom: 30px;
+        }
+
+        @include Mobile {
+            font-size: 30px;
+            line-height: 32px;
+            margin-top: 10px;
+        }
+
+        & span {
+            color: #F2BF8E;
+        }
+    }
+
+    & p {
+        font-family: 'Gotham Condensed Book', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 37px;
+        letter-spacing: 0.05em;
+        color: #FFF1E3;
+
+        @include Big-Tablet {
+            font-size: 20px;
+            line-height: 27px;
+        }
+
+        @include Small-Tablet {
+            text-align: left;
+        }
+
+        @include Mobile {
+            font-size: 18px;
+            line-height: 19px;
+        }
+    }
+
+    & h3 {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 48px;
+        color: #F2BF8E;
+        margin-bottom: 15px;
+
+        @include Big-Tablet {
+            font-size: 38px;
+            line-height: 38px;
+        }
+
+        @include Small-Tablet {
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        @include Mobile {
+            font-size: 30px;
+            line-height: 30px;
+        }
+    }
+
+    & .bar {
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        padding: 100px 0;
+
+        @include Big-Tablet {
+            padding: 50px 0;
+        }
+
+        @include Mobile {
+            padding: 30px 0;
+        }
+
+        & img {
+            width: 72px;
+            height: 52px;
+
+            @include Big-Tablet {
+                width: 62px;
+                height: 42px;
+            }
+        }
+
+        &:before,
+        &:after {
+            background-color: #F2BF8E;
+            content: "";
+            display: inline-block;
+            height: 2px;
+            position: relative;
+            vertical-align: middle;
+            width: 50%;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+
+        &:before {
+            right: 30px;
+            margin-left: -50%;
+        }
+
+        &:after {
+            left: 30px;
+            margin-right: -50%;
+        }
+    }
+}
