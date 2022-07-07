@@ -13,40 +13,7 @@ const Banner = () => {
               </h1>
               <div className="mainImgSection">
                 <img className="mainImg" src={mainImg} alt="mainImg" />
-                <ul>
-                  <li>
-                    <span>
-                      Law of the Land
-                      <div className="yl_bg">
-                        <span></span>
-                      </div>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      Roundtable
-                      <div className="yl_bg">
-                        <span></span>
-                      </div>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      Lore
-                      <div className="yl_bg">
-                        <span></span>
-                      </div>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      Mint
-                      <div className="yl_bg">
-                        <span></span>
-                      </div>
-                    </span>
-                  </li>
-                </ul>
+                
               </div>
             </div>
           </div>
