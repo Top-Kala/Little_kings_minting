@@ -53,7 +53,7 @@ const Main = () => {
             <p>
               The Little Kings is a PFP passion project on the Solana network.
               It is the ultimate representation for creatives, executors, and
-              dreamers. The collection consists of 6,666 little kings that will
+              dreamers. The collection consists of 6,969 little kings that will
               grant you access to a kingdom full of leaders and creators that
               continue to push the envelope in every single aspect of life,
               mentally, physically and spiritually.
