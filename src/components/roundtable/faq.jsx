@@ -75,14 +75,14 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      It will be a free mint. Make sure you have enough for gas. 
+                      1.It will be a free mint. Make sure you have enough for gas. 
                     </li>
                     <li>
-                      Load your Phantom or other approved wallet{" "}
+                      2.Load your Phantom or other approved wallet{" "}
                       <span>(DO NOT MINT FROM AN EXCHANGE)</span>
                     </li>
                     <li>
-                      Click mint through the official mint link (To Be
+                      3.Click mint through the official mint link (To Be
                       Announced)
                     </li>
                   </ol>
