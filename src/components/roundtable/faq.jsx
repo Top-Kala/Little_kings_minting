@@ -27,15 +27,13 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
+                      The Little Kings is a PFP passion project on the Solana network.
                     </li>
                     <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
+                      It is the ultimate representation for creatives, executors, and dreamers.
                     </li>
                     <li>
-                      Click mint through the official mint link (To Be
-                      Announced)
+                      CTo find out more check out the "Law of the Land"
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -49,15 +47,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
-                    </li>
-                    <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
-                    </li>
-                    <li>
-                      Click mint through the official mint link (To Be
-                      Announced)
+                      6969 little kings will be roaming the kingdom
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -71,15 +61,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
-                    </li>
-                    <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
-                    </li>
-                    <li>
-                      Click mint through the official mint link (To Be
-                      Announced)
+                      Solana
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -93,10 +75,10 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
+                      It will be a free mint. Make sure you have enough for gas. 
                     </li>
                     <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
+                      Load your Phantom or other approved wallet{" "}
                       <span>(DO NOT MINT FROM AN EXCHANGE)</span>
                     </li>
                     <li>
@@ -115,14 +97,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
-                    </li>
-                    <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
-                    </li>
-                    <li>
-                      Click mint through the official mint link (To Be
+                      Minting will take place on the little king's website link (To Be
                       Announced)
                     </li>
                   </ol>
@@ -137,15 +112,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
-                    </li>
-                    <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
-                    </li>
-                    <li>
-                      Click mint through the official mint link (To Be
-                      Announced)
+                      You can mint up to 5 little kings per wallet
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -159,15 +126,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
-                    </li>
-                    <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
-                    </li>
-                    <li>
-                      Click mint through the official mint link (To Be
-                      Announced)
+                      Free
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -181,15 +140,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
-                    </li>
-                    <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
-                    </li>
-                    <li>
-                      Click mint through the official mint link (To Be
-                      Announced)
+                      Little kings were drawn by the founding little king Dontworryaboutit.eth
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -203,15 +154,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
-                    </li>
-                    <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
-                    </li>
-                    <li>
-                      Click mint through the official mint link (To Be
-                      Announced)
+                      Dontworryaboutit.eth (yes this is his name lol)
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -225,15 +168,10 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Have at least 2.2 Sol or 4.4 Sol (for 2) + gas to mint
+                      Little king's website link (To Be Announced)
                     </li>
                     <li>
-                      Load your Sol into your Phantom or other approved wallet{" "}
-                      <span>(DO NOT MINT FROM AN EXCHANGE)</span>
-                    </li>
-                    <li>
-                      Click mint through the official mint link (To Be
-                      Announced)
+                      The Little King's will also be available on secondary markets (To Be Announced)
                     </li>
                   </ol>
                 </AccordionItemPanel>
