@@ -27,13 +27,13 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      The Little Kings is a PFP passion project on the Solana network.
+                      The Little Kings is a PFP passion project on the Ethereum network.
                     </li>
                     <li>
                       It is the ultimate representation for creatives, executors, and dreamers.
                     </li>
                     <li>
-                      CTo find out more check out the "Law of the Land"
+                      To find out more check out the " Law of the Land "
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -47,7 +47,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      6969 little kings will be roaming the kingdom
+                      4444 Little Kings will be roaming the kingdom
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -61,7 +61,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Solana
+                      Ethereum
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -75,15 +75,14 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      1.It will be a free mint. Make sure you have enough for gas. 
+                      1. It will be a free mint. Make sure you have enough for gas.
                     </li>
                     <li>
-                      2.Load your Phantom or other approved wallet{" "}
+                      2. Load your Meta mask wallet {" "}
                       <span>(DO NOT MINT FROM AN EXCHANGE)</span>
                     </li>
                     <li>
-                      3.Click mint through the official mint link (To Be
-                      Announced)
+                      3. Click mint through the official mint link (To Be Announced)
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -97,8 +96,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      Minting will take place on the little king's website link (To Be
-                      Announced)
+                      Minting will take place on the Little king's website link (To Be Announced)
                     </li>
                   </ol>
                 </AccordionItemPanel>
@@ -112,7 +110,7 @@ const Faq = () => {
                 <AccordionItemPanel>
                   <ol>
                     <li>
-                      You can mint up to 5 little kings per wallet
+                      You can mint up to 2 Little Kings per wallet
                     </li>
                   </ol>
                 </AccordionItemPanel>

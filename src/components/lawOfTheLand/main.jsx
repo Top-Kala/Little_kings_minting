@@ -22,28 +22,13 @@ const Main = () => {
         <div className="row mt-3 mt-md-5 pt-4">
           <div className="col-md-6 mb-4 mb-md-0 pr-md-5">
             <p>
-              When you hold a Little King it isn't just a representation of
-              yourself physically, but it is a way to represent your religion of
-              life, your belief system, and your way of living through the day
-              to day. We want people with a similar mindset. The Little Kings
-              are filling the kingdom with individuals who don't just speak
-              words into the atmosphere, but bring them to life through action
-              and execution. In a world filled with people who make empty
-              promises and take little to no action, The Kingdom is a heaven for
-              free thinkers who are committed to putting in the work necessary
-              to see their dreams come to life no matter the cost.
+              When you hold a Little King it isn't just a representation of yourself physically, but it is a way to represent your religion of life, your belief system, and your way of living through the day to day.
+We want people with a similar mindset. The Little Kings are filling the kingdom with individuals who don't just speak words into the atmosphere, but bring them to life through action and execution. In a world filled with people who make empty promises and take little to no action, The Kingdom is a heaven for free thinkers who are committed to putting in the work necessary to see their dreams come to life no matter the cost.
             </p>
           </div>
           <div className="col-md-6 mb-4 mb-md-0 pl-md-5">
             <p>
-              Being a Little King means being a part of an ecosystem where you
-              can thrive off a synergy between other creators and executors no
-              matter where you reside in the world. The kingdom is the ultimate
-              bridge between blockchains, a hub of both worlds looking to grab
-              the best talent from each network to form the most inclusive and
-              diverse community. The kingdom is a space where education reigns
-              supreme with an atmosphere of love and support between our fellow
-              kings.
+              Being a Little King means being a part of an ecosystem where you can thrive off a synergy between other creators and executors no matter where you reside in the world. The kingdom is a space where education reigns supreme with an atmosphere of love and support between our fellow kings.
             </p>
           </div>
         </div>
@@ -51,12 +36,8 @@ const Main = () => {
           <div className="col-md-12">
             <h3>Kingdom Foundation</h3>
             <p>
-              The Little Kings is a PFP passion project on the Solana network.
-              It is the ultimate representation for creatives, executors, and
-              dreamers. The collection consists of 6,969 little kings that will
-              grant you access to a kingdom full of leaders and creators that
-              continue to push the envelope in every single aspect of life,
-              mentally, physically and spiritually.
+              The Little Kings is a PFP passion project on the Ethereum network. It is the ultimate representation for creatives, executors, and dreamers.
+The collection consists of 4444 Little Kings that will grant you access to a kingdom full of leaders and creators that continue to push the envelope in every single aspect of life, mentally, physically and spiritually.
             </p>
           </div>
         </div>

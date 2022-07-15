@@ -82,7 +82,7 @@ const VideoPay = ({ handleVideo }) => {
           isVideoOverCounter >= 3 &&
           isVideoOverCounter <= 5 ? (
           <h4 className="tagline text-focus-in">
-            Free, Accepted, and Powerfull
+            Free, Accepted, and Powerful
           </h4>
         ) : counter1 >= 1 && !isVideoOver ? (
           <div>        
