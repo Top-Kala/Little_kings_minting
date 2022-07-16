@@ -28,7 +28,7 @@ const Main = () => {
             </div>
             <div className="priceSection">
               <h4>
-                <span>Price : </span>0.82 Eth + Gas Free
+                <span>Price : </span>Free + Gas
               </h4>
 
               <div className="numbers">
@@ -48,9 +48,9 @@ const Main = () => {
                     </div> */}
               </div>
 
-              <Link to="#" className="Wallet">
+              <Link disable to="" className="Wallet">
                 <span>
-                  Connect to Wallet
+                  Coming Soon
                   <div className="yl_bg">
                     <span></span>
                   </div>
