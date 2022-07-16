@@ -33,7 +33,7 @@ export class Slider extends Component {
         image: Bepo,
         id: 1,
         position: 2,
-        name: "Bepo.eth",
+        name: "Skolguru",
         role: "Advisor",
       },
       {
