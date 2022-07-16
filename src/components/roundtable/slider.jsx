@@ -85,11 +85,11 @@ export class Slider extends Component {
         name: "Manny",
         role: "Community Manager",
       },
-	{	
+      {
         image: Bepo,
         id: 9,
         position: 10,
-        name: "Bepo.eth",
+        name: "skulguru",
         role: "Advisor",
       }
     ],
