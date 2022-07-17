@@ -12,6 +12,7 @@ import Tlop from "../../image/Tlop.png";
 import topArrow from "../../image/topArrow.svg";
 import bottomArrow from "../../image/bottomArrow.svg";
 import icon from "../../image/light_king.svg";
+import AquaDev from "../../image/AquaWolf_PFP.png"
 
 export class Slider extends Component {
   state = {
@@ -86,11 +87,11 @@ export class Slider extends Component {
         role: "Community Manager",
       },
       {
-        image: Bepo,
+        image: AquaDev,
         id: 9,
         position: 10,
-        name: "skulguru",
-        role: "Advisor",
+        name: "AquaWolf",
+        role: "Lead Dev",
       }
     ],
   };
@@ -192,7 +193,7 @@ export class Slider extends Component {
                           transform: `rotate(${this.state.itemDeg}deg)`,
                         }}
                       >
-                        <img src={item.image} alt="img" />
+                        <img className={`slider-roundtable img-${index}`} src={item.image} alt="img" />
                       </div>
                     ))}
                   </div>

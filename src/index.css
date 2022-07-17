@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img.slider-roundtable.img-9 {
+    border-radius: 50rem;
+    border: solid #ffc107 1px;
+}
