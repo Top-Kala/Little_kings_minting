@@ -69,7 +69,7 @@ export class Slider extends Component {
         image: Grinch,
         id: 6,
         position: 7,
-        name: "TheGrinch.eth",
+        name: "Samir Kenzo",
         role: "Mod",
       },
       {
