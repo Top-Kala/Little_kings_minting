@@ -95,9 +95,24 @@ const Header = () => {
             <h3>Social Media</h3>
             <p>Follow the journey and join the conversation on</p>
             <ul>
-              <li><Link to="#"><img src={mb_icon_1} />Opensea</Link></li>
-              <li><a href="https://twitter.com/LittleKingsnft"><img src={mb_icon_2} />Twitter</a></li>
-              <li><Link to="#"><img src={mb_icon_3} />Discord</Link></li>
+              <li>
+                <a href="https://opensea.io" target="_blank">
+                  <img src={mb_icon_3} />
+                  Opensea
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/LittleKingsnft" target="_blank">
+                  <img src={mb_icon_2} />
+                  Twitter
+                </a>
+              </li>
+              <li>
+                <a href="https://discord">
+                  <img src={mb_icon_1} />
+                  Discord
+                </a>
+              </li>
             </ul>
           </div>
         </nav>
