@@ -96,7 +96,7 @@ const Header = () => {
             <p>Follow the journey and join the conversation on</p>
             <ul>
               <li>
-                <a href="https://opensea.io" target="_blank">
+                <a href="#" target="_blank">
                   <img src={mb_icon_3} />
                   Opensea
                 </a>
@@ -108,7 +108,7 @@ const Header = () => {
                 </a>
               </li>
               <li>
-                <a href="https://discord">
+                <a href="#">
                   <img src={mb_icon_1} />
                   Discord
                 </a>
