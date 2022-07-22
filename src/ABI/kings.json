@@ -1,5 +1,5 @@
 {
-    "address":"0xC01F36B82a4478df681444AbCf5CC3ABA8aD128B",
+    "address":"0xCB999DBf80e6231633F5077bB3048557e4efFE24",
     "whitelist" :[
         "0x8a72D3480EB61B985765ebD9823DbaC3E77A96DE",
         "0x2CCa4e618b1Acf866E4d6EAA6170C1b2b75637bc"
@@ -304,19 +304,6 @@
 					"internalType": "address",
 					"name": "",
 					"type": "address"
-				}
-			],
-			"stateMutability": "view",
-			"type": "function"
-		},
-		{
-			"inputs": [],
-			"name": "getStep",
-			"outputs": [
-				{
-					"internalType": "enum TheLittleKings.Step",
-					"name": "",
-					"type": "uint8"
 				}
 			],
 			"stateMutability": "view",
