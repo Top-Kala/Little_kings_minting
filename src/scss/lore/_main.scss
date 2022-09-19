@@ -1,0 +1,105 @@
+@import '../media';
+
+.loreSection {
+    padding: 60px 105px 40px;
+
+    @include Small-Laptop {
+        padding: 60px 32px 40px;
+    }
+    & .box {
+        background: #F9E6D7;
+        backdrop-filter: blur(50px);
+        position: relative;
+        border-radius: 20px;
+        padding: 45px;
+
+        @include Mobile {
+            padding: 45px 30px;
+        }
+
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 83px;
+            background: linear-gradient(180deg, rgba(186, 139, 101, 0.5) 0%, rgba(242, 191, 142, 0) 100%);
+            backdrop-filter: blur(50px);
+            border-radius: 20px;
+
+            @include Small-Tablet {
+                height: 40px;
+            }
+        }
+
+        & img {
+            width: 100%;
+            height: 95%;
+            object-fit: contain;
+            object-position: center center;
+	        padding-top:38px;
+
+            @include Mobile {
+                margin-bottom: 30px;
+            }
+        }
+
+        & h2 {
+            font-style: normal;
+            font-weight: 400;
+            font-size: 35px;
+            line-height: 35px;
+            color: #030303;
+            margin-bottom: 10px;
+
+            @include Big-Tablet {
+                font-size: 25px;
+                line-height: 25px;
+            }
+
+            @include Mobile {
+                margin-bottom: 30px;
+            }
+
+            & span {
+                font-size: 48px;
+                line-height: 48px;
+
+                @include Big-Tablet {
+                    font-size: 38px;
+                    line-height: 38px;
+                }
+            }
+        }
+
+        & p {
+            font-family: 'Gotham Condensed Book', sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 30px;
+            line-height: 35px;
+            color: #030303;
+            margin-bottom: 10px;
+
+            @include Big-Tablet {
+                font-size: 20px;
+                line-height: 25px;
+            }
+
+            @include Mobile {
+                font-size: 18px;
+                line-height: 23px;
+            }
+
+            & span {
+                font-family: 'Gotham Condensed Medium', sans-serif;
+                font-weight: 500;
+            }
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
